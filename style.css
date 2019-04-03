@@ -1,0 +1,14 @@
+.photo1{
+    width:200px;
+    height:200px;
+    background-image: url("ABC.jpg");
+}
+
+.A{
+    background-color: antiquewhite
+    border-bottom:50px;
+    border: rgb(80,70,150) 20px solid;
+    padding: 50px;
+    margin: 50px;
+    text-align: center;
+    }
